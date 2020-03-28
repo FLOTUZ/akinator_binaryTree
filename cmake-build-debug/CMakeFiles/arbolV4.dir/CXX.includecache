@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ceo_emmanuel/CLionProjects/arbolV4/main.cpp
+iostream
+-
+stdlib.h
+-
+string
+-
+tuple
+-
+

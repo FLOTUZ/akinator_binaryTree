@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/arbolV4.dir/main.cpp.o  -o arbolV4 
